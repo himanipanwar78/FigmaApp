@@ -1,4 +1,4 @@
-## Figma Fitness Guide Application
+## Figma: Fitness Guide Application
 
 The Figma Fitness Guide application allows users to enroll for personalized fitness guides by submitting their details through a user-friendly interface. It includes SweetAlert notifications for error handling and success messages, ensuring a smooth user experience.
 
@@ -13,7 +13,7 @@ After starting the application, you will see the homepage:
 
 ## Step 2:
 
-After enrolling, a pop-up will confirm your registration, then redirect you to the Sign-Up page. Log in with your credentials.
+After enrolling, a pop-up will confirm your registration,
 
 ![pop-up](https://github.com/user-attachments/assets/f0588987-9c96-4149-97cd-77eb15ec0c3a)
 
@@ -70,7 +70,7 @@ you will be redirected to your personalized Dashboard where you can Access your 
 
 
 ## Contribution
-if you have a path or facing any issue, please consider contributing to this repsitory
+if you have a patch or facing any issues, please consider contributing to this repsitory
 
 
 
