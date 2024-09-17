@@ -1,4 +1,4 @@
-## Figma: Fitness Guide Application
+# Figma: Fitness Guide Application
 
 The Figma Fitness Guide application allows users to enroll for personalized fitness guides by submitting their details through a user-friendly interface. It includes SweetAlert notifications for error handling and success messages, ensuring a smooth user experience.
 
